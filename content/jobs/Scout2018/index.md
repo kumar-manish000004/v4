@@ -1,5 +1,5 @@
 ---
-date: '2019-04-01'
+date: '2018-04-01'
 title: 'Sri. Chaitanya College'
 company: 'Intermediate'
 location: 'Vizag, AP'
