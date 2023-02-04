@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '2019-07-14'
 title: 'LPU, Punjab'
 company: 'Bachelors'
 location: 'Jalandhar, Punjab'
