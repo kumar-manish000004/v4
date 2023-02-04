@@ -1,10 +1,10 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+title: 'St. Xaviers School'
+company: 'Matriculation'
+location: 'Jamshedpur, Jharkhand'
+range: '2008 - May 2017'
+url: 'https://xavierschool.in/'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js
