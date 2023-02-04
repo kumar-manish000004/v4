@@ -4,7 +4,7 @@ title: 'Sri. Chaitanya College'
 company: 'Intermediate'
 location: 'Vizag, AP'
 range: '2017 - May 2019'
-url: 'https://web.northeastern.edu/scout/'
+url: 'https://srichaitanya.net/'
 ---
 
 - Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
