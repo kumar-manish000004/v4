@@ -15,8 +15,8 @@ const IconLogo = () => (
         />
       </g>
     </g>
-    <text x="26" y="65" fill="currentColor" fontSize="50px" fontFamily="Consolas">
-      M
+    <text x="26" y="65" fill="currentColor" fontSize="40px" fontFamily="Consolas">
+      MK
     </text>
   </svg>
 );
