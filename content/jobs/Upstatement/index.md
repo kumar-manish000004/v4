@@ -1,10 +1,10 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'LPU, Punjab'
+company: 'Bachelors'
+location: 'Jalandhar, Punjab'
+range: 'August 2019 - Present '
+url: 'https://www.lpu.in/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
