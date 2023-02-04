@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['C','C++', 'Pyhton', 'Android Studio', 'Machine Learnig', 'Data Science'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +135,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Maneesh Kumar Sinha and I enjoy creating things that live on the internet. My intrest in
+                this field started back in 2012 when we were introduced to the subject of computer science.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Fast-forward to today, and I am currently studying as a final year B.tech student of Computer Science Engineering with major subject as Machine Learning and 
+              Minor Android Application Development. Also side by side researching on the topic of Revolutionizing Predictions, with a specific focus on Advances in Multi-Pathology Prediction.
+              In my free time I contribute technical articles online on diffrent platforms.
+              I 
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+             Off-screen, I volunteer at a national service sceme and am a sports enthusiast who enjoys basketball and volleyball.
+             I even engage myself with online games and artificial intelligence solutions that are popular in the industry.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
