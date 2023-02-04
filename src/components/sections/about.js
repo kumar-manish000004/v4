@@ -143,7 +143,6 @@ const About = () => {
               Fast-forward to today, and I am currently studying as a final year B.tech student of Computer Science Engineering with major subject as Machine Learning and 
               Minor Android Application Development. Also side by side researching on the topic of Revolutionizing Predictions, with a specific focus on Advances in Multi-Pathology Prediction.
               In my free time I contribute technical articles online on diffrent platforms.
-              I 
             </p>
 
             <p>
