@@ -1,9 +1,9 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
+date: '2019-04-01'
+title: 'Sri. Chaitanya College'
+company: 'Intermediate'
+location: 'Vizag, AP'
+range: '2017 - May 2019'
 url: 'https://web.northeastern.edu/scout/'
 ---
 
